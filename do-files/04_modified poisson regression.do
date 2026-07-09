@@ -23,7 +23,7 @@ foreach var in `Factors'{
 // set the file to write the output/Do the layout /
 
 
-putexcel set "C:\Users\Nita\OneDrive\Desktop\Manuscript\Inferential.xls", replace  
+putexcel set "C:\STATA DATASETS\Inferential.xls", replace  
 
 putexcel A1 = "The Role of Social Support on the Mental Health of Adolescent Girls and Young Women."
 putexcel C2 =  "N"

@@ -33,7 +33,7 @@ The dataset used in this project is not publicly available because it originates
 ## Key Findings
 
 - Higher perceived social support was associated with significantly lower levels of depression and anxiety among parenting adolescent girls and young women (AGYW).
-- AGYW with high social support had a 93% reduction in the odds of severe depression compared with those reporting low social support.
+- Parenting AGYW with high perceived social support had a 93% reduction in the odds of severe depression compared with those reporting low social support.
 - Having a child before marriage and experiencing a recent loss were associated with poorer mental health outcomes, including higher levels of depression and anxiety.
 - No significant differences were observed in the overall distribution of common mental disorders or social support levels between parenting and non-parenting AGYW.
 - The findings highlight the importance of strengthening social support systems as part of mental health interventions for adolescent girls and young women.

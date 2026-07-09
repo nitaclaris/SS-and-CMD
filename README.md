@@ -16,7 +16,7 @@ The project explored whether social support influences depression, anxiety, post
 
 ## Data 
 
-The dataset used in this project is **not publicly available** as the parent study is still an ongoing Clinical trial.  
+The dataset used in this project is not publicly available because it originates from an ongoing clinical trial. In accordance with the study's data sharing policies, participant-level data cannot be publicly released. Consequently, this repository contains only the analysis scripts and project documentation.  
 
 ## Skills Demonstrated
 

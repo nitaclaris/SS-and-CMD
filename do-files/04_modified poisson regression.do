@@ -8,7 +8,7 @@
 
 
 ***Set the working directory
-cd "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS"
+cd "C:\STATA DATASETS"
 
 ***load the data
 use "PMH_CLEAN_Final.dta", clear

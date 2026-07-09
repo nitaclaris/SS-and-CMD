@@ -16,7 +16,7 @@ The project explored whether social support influences depression, anxiety, post
 
 ## Data 
 
-The dataset used for this analysis is not yet publicly available as the parent study is still an ongoing Clinical Trial. 
+The dataset used in this project is **not publicly available** as the parent study is still an ongoing Clinical trial.  
 
 ## Skills Demonstrated
 

@@ -9,20 +9,24 @@ The project explored whether social support influences depression, anxiety, post
 ## Methods
 
 1 Cross-sectional analysis nested within an ongoing  HPV vaccine trial
+
 2 Descriptive statistics
+
 3 Modified Poisson regression
 
 ## Skills Demonstrated
 
 - Stata programming
+  
 - Data management
+  
 - Mental health epidemiology
+  
 - Clinical research
+  
 - Modified Poisson regression
-- Logistic regression
-- Statistical modelling
-- Public health research
-- Conference presentation
+
+
 
 ## Dissemination
 

@@ -8,10 +8,10 @@
 
 
 ***Set the working directory
-cd "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS"
+cd "C:\STATA DATASETS"
 
 ***load the data
-use "PMH CLEAN 11 NOV 2023_2.dta", clear
+use "PMH_CLEAN_2.dta", clear
 
 *****Generate the study arm variable 
 
@@ -35,7 +35,6 @@ saving("CMD by Study Arm.xlsx", replace)
 
 ***************************CMD BY DEMOGRAPHICS**********************************
 ********************************************************************************
-
 
 
 ****************SOCIO-DEMOGRAPHIC DETERMINANTS OF DEPRESSION********************

@@ -76,7 +76,7 @@ encode child_before_mirrage, gen (Child_before_marriage)
 
 
 ***********Merge with another dataset containing more demographic information***
-merge 1:1 PTID using "C:\Users\Nita\OneDrive\Desktop\KARGENO\KENSHE MENTAL HEALTH STUDY\PMH Datasets\STATA DATASETS\Demographics KENSHE.dta"
+merge 1:1 PTID using "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS\Demographics.dta"
 
 
 

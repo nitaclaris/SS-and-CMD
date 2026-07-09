@@ -14,6 +14,10 @@ The project explored whether social support influences depression, anxiety, post
 
 3 Modified Poisson regression
 
+## Data 
+
+The dataset used for this analysis is not yet publicly available as the parent study is still an ongoing Clinical Trial. 
+
 ## Skills Demonstrated
 
 - Stata programming

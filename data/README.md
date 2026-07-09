@@ -2,7 +2,7 @@
 
 The dataset used in this project is **not publicly available**.
 
-The analysis was conducted using data from the, an ongoing HPV vaccine clinical trial in Kenya. As the parent study is still in progress, participant-level data are confidential and are not available for public distribution.
+The analysis was conducted using data from  an ongoing HPV vaccine clinical trial in Kenya. As the parent study is still in progress, participant-level data are confidential and are not available for public distribution.
 
 This repository therefore **does not include any raw or derived datasets**.
 

@@ -8,10 +8,10 @@
 
 
 ***Set the working directory
-cd "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS"
+cd "C:\STATA DATASETS"
 
 ***load the data
-use "PMH CLEAN 11 NOV 2023.dta", clear
+use "PMH_CLEAN.dta", clear
 
 
 ***keep only the variables needed for this analysis 
@@ -76,11 +76,11 @@ encode child_before_mirrage, gen (Child_before_marriage)
 
 
 ***********Merge with another dataset containing more demographic information***
-merge 1:1 PTID using "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS\Demographics.dta"
+merge 1:1 PTID using "C:\STATA DATASETS\Demographics.dta"
 
 
 
 **save the dataset
-save "PMH CLEAN 11 NOV 2023_1.dta", replace
+save "PMH_CLEAN_1.dta", replace
 
 

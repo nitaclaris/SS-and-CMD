@@ -8,10 +8,10 @@
 
 
 ***Set the working directory
-cd "C:\Users\Nita\OneDrive\Desktop\PMH Datasets\STATA DATASETS"
+cd "C:\STATA DATASETS"
 
 ***load the data
-use "PMH CLEAN 11 NOV 2023_1.dta", clear
+use "PMH_CLEAN_1.dta", clear
 
 
 ********************************************************************************
@@ -150,4 +150,4 @@ tab PTSD
 
 ********************************************************************************
 
-save PMH CLEAN 11 NOV 2023_2.dta
+save PMH_CLEAN_2.dta
